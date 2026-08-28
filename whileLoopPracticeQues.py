@@ -38,3 +38,4 @@ while i <= num:
         count = count + 1
     i += 1
 print(f"Total factors of {num} are {count}")
+
